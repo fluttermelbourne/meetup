@@ -1,6 +1,14 @@
 ![Flutter logo](https://flutter.dev/assets/flutter-lockup-4cb0ee072ab312e59784d9fbf4fb7ad42688a7fdaea1270ccf6bbf4f34b7e03f.svg)
 
-## Meetup Events
+## About Us
+
+Flutter Melbounre is a ....
+
+Meetup - join the group to join and get event details
+Twitter - follow us to get the latest news on events 
+Slack - join in the discussions via the GDG Melbounre Slack workspace which you can join here: .... Once you are in, make sure to join the #flutter channel
+GitHub - here we post things like shared code, slide packs, examples and longer recommended content via the wiki ...
+
 
 ## Documentation
 
