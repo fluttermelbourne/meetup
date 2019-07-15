@@ -4,6 +4,6 @@
 
 For some events the presenter may provide a copy of slides, code or other links. These are the assets provided for the following events:
 
-# Hack Night - 17th July 2019
+# Hack Night 17th July 2019
 
 TBC
