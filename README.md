@@ -12,3 +12,8 @@ Flutter Melbourne is a group that meets regularly to work on and discuss all thi
 
 * [Slack](https://gdgmelbourne.slack.com/join/shared_invite/enQtMzA0MzMyMjA1MTA5LWQ2YTdhYzIzODRkNzUwODM2NTY1YzhjMzhmODlhYjk4NWRlNzI4NzM4MGQ4YTQ1N2I0ZWVjNmVhYmEzODAyNWM) - join in the discussions via the GDG Melbounre Slack workspace. Use this link to join the team, then join the #flutter channel
 
+## From Members
+
+Articles, apps and projects worked on by members of Flutter Melbourne:
+
+Apps 
