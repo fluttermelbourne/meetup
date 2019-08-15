@@ -4,7 +4,7 @@
 
 Flutter Melbourne is a group that meets regularly to work on and discuss all things Flutter. We are your 'in person' channel for all things going on in the Flutter world and Melbourne spacifically.  
 
-* [GitHub Wiki](https://github.com/fluttermelbourne/meetup/wiki) - here we post things like shared code, slide packs, examples and longer content
+* [Wiki](https://github.com/fluttermelbourne/meetup/wiki) - here we post things like shared code, slide packs, examples and longer content
 
 * [Meetup](https://www.meetup.com/Flutter-Melbourne/) - join the group to get details on all of our events
 
