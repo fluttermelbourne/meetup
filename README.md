@@ -4,23 +4,11 @@
 
 Flutter Melbounre is a group that meets regularly to work on and discuss all things Flutter. We are your 'in person' channel for all things going on in the Flutter world and Melbourne spacifically.  
 
-GitHub - here we post things like shared code, slide packs, examples and longer recommended content via the wiki ...
+* [GitHub Wiki](https://github.com/fluttermelbourne/meetup/wiki) - here we post things like shared code, slide packs, examples and longer content
 
-Meetup - join the group to join and get event details
+* [Meetup](https://www.meetup.com/Flutter-Melbourne/) - join the group to get details on all of our events
 
-Twitter - follow us to get the latest news on events 
+* [Twitter](https://twitter.com/FlutterMelb) - follow us to get the latest news & events information
 
-Slack - join in the discussions via the GDG Melbounre Slack workspace which you can join here: .... Once you are in, make sure to join the #flutter channel
-
-## Key Information
-
-
-
-
-## Documentation
-
-* [Install Flutter](https://flutter.dev/get-started/)
-* [Flutter documentation](https://flutter.dev/docs)
-* [Development wiki](https://github.com/flutter/flutter/wiki)
-* [Contributing to Flutter](https://github.com/flutter/flutter/blob/master/CONTRIBUTING.md)
+* [Slack](https://gdgmelbourne.slack.com/join/shared_invite/enQtMzA0MzMyMjA1MTA5LWQ2YTdhYzIzODRkNzUwODM2NTY1YzhjMzhmODlhYjk4NWRlNzI4NzM4MGQ4YTQ1N2I0ZWVjNmVhYmEzODAyNWM) - join in the discussions via the GDG Melbounre Slack workspace. Use this link to join the team, then join the #flutter channel
 
