@@ -16,4 +16,5 @@ Flutter Melbourne is a group that meets regularly to work on and discuss all thi
 
 Articles, apps and projects worked on by members of Flutter Melbourne:
 
-Apps 
+* [Apps & Plugins](https://github.com/fluttermelbourne/meetup/wiki/Member-Flutter-Apps-&-Plugins) - Flutter projects by members released or in testing
+
