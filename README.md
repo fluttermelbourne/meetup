@@ -10,7 +10,7 @@ Flutter Melbourne is a group that meets regularly to work on and discuss all thi
 
 * [Twitter](https://twitter.com/FlutterMelb) - follow us to get the latest news & events information
 
-* [Slack](https://gdgmelbourne.slack.com/join/shared_invite/enQtMzA0MzMyMjA1MTA5LWQ2YTdhYzIzODRkNzUwODM2NTY1YzhjMzhmODlhYjk4NWRlNzI4NzM4MGQ4YTQ1N2I0ZWVjNmVhYmEzODAyNWM) - join in the discussions via the GDG Melbounre Slack workspace. Use this link to join the team, then join the #flutter channel
+* [Slack](https://gdgmelbourne.slack.com/join/shared_invite/enQtMzA0MzMyMjA1MTA5LWJmYWI0ZWNhNWRjZmQ2YmM3YWE0NTZmOTZjNTZmY2UzNzU4ZDkyN2UxMDc4MTAwZjY3N2E3ZWRmMTJlZjg5OTk) - join in the discussions via the GDG Melbounre Slack workspace. Use this link to join the team, then join the #flutter channel
 
 ## From Members
 
