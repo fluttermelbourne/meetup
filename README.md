@@ -18,3 +18,5 @@ Articles, apps and projects worked on by members of Flutter Melbourne:
 
 * [Apps, Packages & Plugins](https://github.com/fluttermelbourne/meetup/wiki/Member-Flutter-Apps-&-Plugins) - Flutter projects by members released or in testing
 
+* [Articles](https://github.com/fluttermelbourne/meetup/wiki/Flutter-Articles-by-members) - Flutter articles by members
+
