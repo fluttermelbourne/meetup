@@ -1,6 +1,6 @@
 ![Flutter logo](https://github.com/fluttermelbourne/meetup/blob/master/flutter-lockup.png)
 
-## Flutter Melbourne
+# Flutter Melbourne
 
 Flutter Melbourne is a group that meets regularly to work on and discuss all things Flutter. We are your 'in person' channel for all things going on in the Flutter world and Melbourne spacifically.  
 
@@ -16,5 +16,5 @@ Flutter Melbourne is a group that meets regularly to work on and discuss all thi
 
 Articles, apps and projects worked on by members of Flutter Melbourne:
 
-* [Apps & Plugins](https://github.com/fluttermelbourne/meetup/wiki/Member-Flutter-Apps-&-Plugins) - Flutter projects by members released or in testing
+* [Apps, Packages & Plugins](https://github.com/fluttermelbourne/meetup/wiki/Member-Flutter-Apps-&-Plugins) - Flutter projects by members released or in testing
 
