@@ -20,3 +20,5 @@ Articles, apps and projects worked on by members of Flutter Melbourne:
 
 * [Articles](articles-by-members.md) - Flutter articles by members
 
+If you would like to have your App, Plugin, Package or Article added, please add it to one of the above files and submit a PR 🙂.
+
