@@ -2,7 +2,7 @@
 
 # Flutter Melbourne
 
-Flutter Melbourne is a group that meets regularly to work on and discuss all things Flutter. We are your 'in person' channel for all things going on in the Flutter world and Melbourne spacifically.  
+Flutter Melbourne is a group that meets regularly to work on and discuss all things Flutter. We are your 'in person' channel for all things going on in the Flutter world and Melbourne specifically.  
 
 * [Wiki](https://github.com/fluttermelbourne/meetup/wiki) - here we post things like shared code, slide packs, examples and longer content
 
@@ -16,7 +16,9 @@ Flutter Melbourne is a group that meets regularly to work on and discuss all thi
 
 Articles, apps and projects worked on by members of Flutter Melbourne:
 
-* [Apps, Packages & Plugins](https://github.com/fluttermelbourne/meetup/wiki/Member-Flutter-Apps-&-Plugins) - Flutter projects by members released or in testing
+* [Apps, Packages & Plugins](made-by-members.md) - Flutter projects by members released or in testing
 
-* [Articles](https://github.com/fluttermelbourne/meetup/wiki/Flutter-Articles-by-members) - Flutter articles by members
+* [Articles](articles-by-members.md) - Flutter articles by members
+
+If you would like to have your App, Plugin, Package or Article added, please add it to one of the above files and submit a PR 🙂.
 
