@@ -1,5 +1,4 @@
-# Made By Members
-## Flutter Apps, Packages & Plugins
+# Flutter Made By Members
 
 ## Apps
 
