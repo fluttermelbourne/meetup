@@ -52,7 +52,7 @@ by Maksim Lin
 
 ***
 
-# Packages & Plugins
+## Packages & Plugins
 
 ### primary_secondary_progress_bar
 by Suesi Tran
@@ -70,5 +70,9 @@ by Suesi Tran
 
 <img src="https://github.com/suesitran/slider_side_menu/raw/master/screenrecord/demo.gif" width="250">
 
+***
 
+## Contributions to Flutter
+
+Code contributions by memebers to the Flutter framework and Dart:
 
