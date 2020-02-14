@@ -1,5 +1,7 @@
 # Flutter Made By Members
 
+***
+
 ## Apps
 
 ### Inspector 360 
@@ -16,8 +18,6 @@ by Nima Azimi at [assetowl.com](https://www.assetowl.com/)
 * [Google Play](https://play.google.com/store/apps/details?id=com.assetowl.inspector360&hl=en) - Also available as an Android app
 
 
-***
-
 ### Rocklogger 
 by Bramley Turner-Jones at [rockgecko.com](https://rockgecko.com/)
 
@@ -29,8 +29,6 @@ by Bramley Turner-Jones at [rockgecko.com](https://rockgecko.com/)
 * [Google Play](https://play.google.com/store/apps/details?id=com.rockgecko.dips) - Also available as an Android app
 
 
-***
-
 
 ### My Wallet 
 by Suesi Tran
@@ -41,7 +39,6 @@ by Suesi Tran
 
 * [Apple AppStore Beta](https://testflight.apple.com/join/avAmXjzN) - Open this link on an iOS device to join the Beta testing group and install the app
 
-***
 
 ### Click-A-Pair 
 by Maksim Lin 
@@ -61,7 +58,6 @@ by Suesi Tran
 
 <img src="https://github.com/suesitran/primary_secondary_progress_bar/raw/master/image/primary_secondary_example.gif" width="250">
 
-***
 
 ### slider_side_menu
 by Suesi Tran
