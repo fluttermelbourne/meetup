@@ -1,5 +1,5 @@
 # Made By Members
-## Flutter Apps, Packages & Plugins by Flutter Melbourne Members
+## Flutter Apps, Packages & Plugins
 
 ## Apps
 
