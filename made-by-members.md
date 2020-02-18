@@ -1,6 +1,5 @@
 # Flutter Made By Members
 
-
 ## Apps
 
 ### Inspector 360 
@@ -17,6 +16,8 @@ by Nima Azimi at [assetowl.com](https://www.assetowl.com/)
 * [Google Play](https://play.google.com/store/apps/details?id=com.assetowl.inspector360&hl=en) - Also available as an Android app
 
 
+
+
 ### Rocklogger 
 by Bramley Turner-Jones at [rockgecko.com](https://rockgecko.com/)
 
@@ -26,6 +27,8 @@ by Bramley Turner-Jones at [rockgecko.com](https://rockgecko.com/)
 * [Apple AppStore](https://apps.apple.com/us/app/rocklogger/id1468884794?mt=8) - Open this link on an iOS device to install the app
 
 * [Google Play](https://play.google.com/store/apps/details?id=com.rockgecko.dips) - Also available as an Android app
+
+
 
 
 
@@ -39,6 +42,8 @@ by Suesi Tran
 * [Apple AppStore Beta](https://testflight.apple.com/join/avAmXjzN) - Open this link on an iOS device to join the Beta testing group and install the app
 
 
+
+
 ### Click-A-Pair 
 by Maksim Lin 
 
@@ -48,7 +53,10 @@ by Maksim Lin
 
 ***
 
+
+
 ## Packages & Plugins
+
 
 ### primary_secondary_progress_bar
 by Suesi Tran
@@ -56,6 +64,8 @@ by Suesi Tran
 * [pub.dev](https://pub.dev/packages/primary_secondary_progress_bar) - Link to plugin
 
 <img src="https://github.com/suesitran/primary_secondary_progress_bar/raw/master/image/primary_secondary_example.gif" width="250">
+
+
 
 
 ### slider_side_menu
@@ -67,7 +77,16 @@ by Suesi Tran
 
 ***
 
-## Contributions to Flutter
+### Dolumns
+by Maksim Lin
 
-Code contributions by memebers to the Flutter framework and Dart:
+A Dart library for formatting text output into columns. Useful for printing tabular data in a terminal.
 
+*  [pub.dev](https://pub.dev/packages/dolumns) - Link to package
+
+### String Res
+by Maksim Lin
+
+A generator of strings constants from json
+
+*  [pub.dev](https://pub.dev/packages/string_res) - Link to Plugin
