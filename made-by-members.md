@@ -71,5 +71,21 @@ by Suesi Tran
 
 <img src="https://github.com/suesitran/slider_side_menu/raw/master/screenrecord/demo.gif" width="250">
 
+***
+
+### Dolumns
+by Maksim Lin
+
+A Dart library for formatting text output into columns. Useful for printing tabular data in a terminal.
+
+*  [pub.dev](https://pub.dev/packages/dolumns) - Link to package
+
+### String Res
+by Maksim Lin
+
+A generator of strings constants from json
+
+*  [pub.dev](https://pub.dev/packages/string_res) - Link to Plugin
+
 
 
