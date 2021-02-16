@@ -51,9 +51,18 @@ by Maksim Lin
 
 * [Google Play](https://play.google.com/store/apps/details?id=com.manichord.clickapair) - to install the Android app
 
+
+### Thatch: Travel, Plan, Share
+by Thatch (Shane Farmer)
+
+Thatch is the all-in-one workspace to collect and curate the spots that inspire you.
+
+<img src="https://play-lh.googleusercontent.com/YET0Uk7Ln__L5kd3FwyfRr0S_pCpPAcxz4eSq8iLi1A6VPIaewEkGiOCCyb8qPFn1lQ=w720-h310-rw" width="250" />
+
+* [Play Store](https://play.google.com/store/apps/details?id=co.thatch.apps.hub)
+* [App Store](https://apps.apple.com/au/app/thatch-travel-plan-share/id1524536119)
+
 ***
-
-
 
 ## Packages & Plugins
 
