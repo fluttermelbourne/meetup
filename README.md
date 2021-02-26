@@ -1,4 +1,4 @@
-![Flutter logo](https://github.com/fluttermelbourne/meetup/blob/master/flutter-lockup.png)
+![Flutter logo](https://secure.meetupstatic.com/photos/event/a/8/9/0/600_494923152.jpeg)
 
 # Flutter Melbourne
 
